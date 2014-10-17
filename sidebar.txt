@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sat:home|Door43 (sat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sat|d43-sat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sat/archive/master.zip|d43-sat.zip]]
+
+**Recent Changes**
+{{changes>ns = sat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sat|Ethnologue data]]
+
